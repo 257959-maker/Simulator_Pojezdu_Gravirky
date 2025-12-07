@@ -1,0 +1,14 @@
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\bin\Debug\net9.0\Simulator_pojezdu_gravirky.exe
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\bin\Debug\net9.0\Simulator_pojezdu_gravirky.deps.json
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\bin\Debug\net9.0\Simulator_pojezdu_gravirky.runtimeconfig.json
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\bin\Debug\net9.0\Simulator_pojezdu_gravirky.dll
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\bin\Debug\net9.0\Simulator_pojezdu_gravirky.pdb
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.GeneratedMSBuildEditorConfig.editorconfig
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.AssemblyInfoInputs.cache
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.AssemblyInfo.cs
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.csproj.CoreCompileInputs.cache
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.dll
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\refint\Simulator_pojezdu_gravirky.dll
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.pdb
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\Simulator_pojezdu_gravirky.genruntimeconfig.cache
+C:\VCP_projekt\Simulator_pojezdu_gravirky\Simulator_pojezdu_gravirky\obj\Debug\net9.0\ref\Simulator_pojezdu_gravirky.dll
